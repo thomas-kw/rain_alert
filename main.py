@@ -7,7 +7,7 @@ api_key = "8a3cb7601d8c66334446f0daffb8cb3b"
 
 # Twilio
 account_sid = "AC4bc9d655663dcdcdbee672f007fc79d9"
-auth_token = "check twilio"
+auth_token = "twilio token"
 
 weather_params = {
     "lat": 37.566536,
